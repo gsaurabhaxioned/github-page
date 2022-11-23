@@ -1,7 +1,3 @@
 ---
-layout: 'base.njk'
-permalink: /
-title: 'My Eleventy Website'
+layout: page/index.njk
 ---
-
-# Hello World!
